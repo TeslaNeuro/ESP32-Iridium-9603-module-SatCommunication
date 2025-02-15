@@ -1,4 +1,4 @@
-# Gateway_SatComs_Example
+# Iridium 9603 Module Sattelite Communication
 
 This repository provides an example sketch for interfacing with the Iridium 9603 satellite communication module using the ESP32 and the Arduino framework. The sketch demonstrates basic operations like checking link quality, retrieving network time, sending messages, and checking for incoming messages over the satellite network.
 
