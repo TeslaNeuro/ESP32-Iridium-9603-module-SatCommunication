@@ -40,7 +40,7 @@ IridiumSBD modem(IridiumSerial);
 char version[12];
 int signalQuality = -1;
 int err;
-char* TESTmessage = "{'Sensor Report': {'last recording': [{'id': '123','position latitude': '17.66586','position longitude': '-156.18582','temperaturec': '12','humidity': '52','co2ppm': '10000','linkquality': '4','battery': '74','fwver': '03'},]}}";
+char* TESTmessage = "{'Sensor Report': {'last recording': [{'id': '123','position latitude': '17.66586','position longitude': '-156.18582','temperature_c': '12','humidity': '52','co2ppm': '10000','linkquality': '4','battery': '74','fwver': '03'},]}}";
 uint8_t buffer[200] = { 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89 };
 struct tm t;
 static bool messageSent = false;
