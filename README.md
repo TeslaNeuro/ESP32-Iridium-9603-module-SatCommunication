@@ -68,6 +68,6 @@ This example assumes you are using an ESP32, but it can be adapted for other pla
 
 ## Additional Notes:
 - **Diagnostics**: You can enable the `DIAGNOSTICS` flag to enable debugging mode and print detailed logs for troubleshooting.
-- Ensure the Iridium module has a valid SIM card with an active satellite subscription for successful communication.
+- Ensure the Iridium module has already been setup with an active satellite subscription for successful communication.
 
 This repository offers a simple but effective introduction to working with Iridium satellite communications and can be expanded for more complex applications such as IoT or telemetry in remote locations.
