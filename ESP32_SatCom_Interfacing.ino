@@ -1,5 +1,5 @@
 /*
- * Name: Gatway_SatComs_Example
+ * Name: ESP32_SatCom_Interfacing
  * Version: 02
  * Author: Arshia Keshvari
  * Date: 15th of Febuary 2025
